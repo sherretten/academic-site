@@ -23,9 +23,9 @@ twitter: ''
 email: natesherrett@gmail.com
 phone: (503) 317 7319
 address:
-  street: 5904 NE 91st Avenue
+  street: 5904 NE 91st Ave
   city: Vancouver
-  region: OR
+  region: WA
   postcode: '98662'
   country: United States
   country_code: US
@@ -91,10 +91,10 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
+  post: false
   project: true
-  publication: true
-  event: true
+  publication: false
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
